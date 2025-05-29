@@ -1,6 +1,6 @@
 # EasyCrackme
-## userrrrrr
-### no its not hashed
+By: userrrrrr
+Description: no its not hashed
 ---
 
 Found password `.rdata` with strings.
