@@ -1,0 +1,9 @@
+# QTBXCTU
+xored = [0x51, 0x54, 0x42, 0x58, 0x43, 0x54, 0x55]
+xor = 0x21
+
+key = ""
+for i in range(len(xored)):
+    key += chr(xored[i] ^ xor)
+
+print(key)
